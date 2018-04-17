@@ -3,7 +3,7 @@ layout: page
 title: About Pedro Lealdino Filho
 tags: [Pedro Lealdino Filho, Jekyll, theme, moon]
 date: 2018-04-18
-comments: false
+comments: true
 ---
     
 <center><a href="https://www.researchgate.net/profile/Pedro_Lealdino_Filho2"><b>Pedro</b></a> is a researcher in Mathematics Education, focused in using Digital Technologies to improve Creative Mathematical Thinking and Problem Solving skills.</center>
