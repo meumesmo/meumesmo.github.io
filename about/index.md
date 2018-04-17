@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Pedro Lealdino Filho
+tags: [Pedro Lealdino Filho, Jekyll, theme, moon]
+date: 2018-04-18
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://www.researchgate.net/profile/Pedro_Lealdino_Filho2"><b>Pedro</b></a> is a researcher in Mathematics Education, focused in using Digital Technologies to improve Creative Mathematical Thinking and Problem Solving skills.</center>
 
 ## Features
 * Minimal, you can focus on your content
