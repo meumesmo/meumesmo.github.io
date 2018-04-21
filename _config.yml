@@ -1,13 +1,13 @@
 # Site
 title:              Pedro Lealdino Filho
-bio:                'Personal Page'
-description:        "Projects and Research Productions"
+bio:                'Página Pessoal'
+description:        "Descrição de Projetos e Pesquisas"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+locale:             pt_BR
 url:                https://meumesmo.github.io
 
 # Jekyll
@@ -32,7 +32,7 @@ disqus_shortname:   meumesmo
 # if you don't have any of social below, comment the line.
 #google:
   #plus:            #username
-  #analytics:        'UA-74716509-1'
+  analytics:        UA-74716509-1
   #verify:
   #ad-client:
   #ad-slot:
@@ -52,8 +52,8 @@ medium:            '@pedrolealdino'
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-youtube:           meumesmo
-#youtube-channel:   channel
+#youtube:            meumesmo
+youtube-channel:   meumesmo
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
