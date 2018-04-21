@@ -33,6 +33,7 @@ Criatividade em Matemática, Matemática, Educação Matemática, Jogos Educacio
 ## Afiliações
 
 Université Claude Bernard - Lyon 1, <a href="http://math.univ-lyon1.fr/irem/"><b>IREM</b></a>
+
 Bolsista - Doutorado Pleno  - <a href = "http://www.capes.gov.br"><b>CAPES</b></a> 
 
 ## Publicações
