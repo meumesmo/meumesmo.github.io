@@ -30,6 +30,10 @@ Doutorado (em andamento) - Educação Matemática - Université Claude Bernard -
 
 Criatividade em Matemática, Matemática, Educação Matemática, Jogos Educacionais, Desenvolvimento de Jogos, Cursos à Distância, Estatística, Ciência de Dados, Inteligência Artificial, Algoritmos, Machine Learning, Ciências da Computação, Política, Redes Sociais.
 
+## Palestras
+
+(em contrução)
+
 ## Afiliações
 
 Université Claude Bernard - Lyon 1, <a href="http://math.univ-lyon1.fr/irem/"><b>IREM</b></a>
