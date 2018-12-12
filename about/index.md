@@ -24,7 +24,7 @@ Especialização (em andamento) - Ciências de Dados - Johns Hopkins University 
 
 Mestrado - Educação Científica e Tecnológica - UTFPR (2014) - Jogo Educativo para Ensino de Matemática: As Aventuras de Simon Bile.
 
-Doutorado (em andamento) - Educação Matemática - Université Claude Bernard - Lyon I, France - Situações Didáticas Para Aprimoramento do Pensamento Matemático Criativo: Um estudo sobre funções, algoritmos e modelagem.
+Doutorado - Educação Matemática, Informática na Educação - Université Claude Bernard - Lyon I (2018), France - Situações Didáticas Para Aprimoramento do Pensamento Matemático Criativo: Um estudo sobre funções, algoritmos e modelagem.
 
 ## Interesses de Pesquisa
 
