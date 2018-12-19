@@ -10,21 +10,21 @@ comments: false
 
 ## Biografia
 
-Sou estudante de Doutorado pela Universidade Claude Bernard - Lyon I, bolsista pela CAPES. O Tema de meu doutorado é o Pensamento Matemático Criativo e seu desenvolvimento por meio de tecnologias e situações baseadas em resolução de problemas. Meus interesses incluem Matemática, Ciências da Computação, Educação, Inteligência Artificial e Criatividade.
+Sou Doutor em Educação Matemática e Informática Educativa pela Universidade Claude Bernard - Lyon I, bolsista pela CAPES. O Tema de meu doutorado é o Pensamento Matemático Criativo e seu desenvolvimento por meio de tecnologias e situações didáticas,  baseadas em resolução de problemas. Meus interesses incluem: Matemática, Ciências da Computação, Jogos Digitais, Música Computacional, Educação, Inteligência Artificial e Criatividade.
 
-Previamente trabalhei como Engenheiro de Pesquisas pela Université Claude Bernard - Lyon I, desenvolvendo metodologias e protocolos para os projetos MetaMath, MathGeAr e MC Squared. Também trabalhei como Desenvolvedor de Jogos Educativos pela École Normale Superieure de Lyon. 
+Previamente trabalhei como Engenheiro de Pesquisas pela Université Claude Bernard - Lyon I, desenvolvendo metodologias e protocolos para os projetos MetaMath, MathGeAr e MC Squared. Também trabalhei como Desenvolvedor de Jogos Educativos pela École Normale Superieure de Lyon - Projeto Jen.Lab. 
 
 ## Formação
 
 Licenciatura - Matemática - Faculdade Guairacá (2010) - A Matemática no Jogo de Poker.
 
-Especialização - Ensino de Ciências e Tecnologia - UTFPR (2012) - Protótipo de Jogo para Ensino de Matemática.
+Especialização - Ensino de Ciências e Tecnologia - UTFPR (2012) - Protótipo de Jogo Digital para Ensino de Matemática.
 
 Especialização (em andamento) - Ciências de Dados - Johns Hopkins University (2018) - Projeto em Construção
 
 Mestrado - Educação Científica e Tecnológica - UTFPR (2014) - Jogo Educativo para Ensino de Matemática: As Aventuras de Simon Bile.
 
-Doutorado - Educação Matemática, Informática na Educação - Université Claude Bernard - Lyon I (2018), France - Situações Didáticas Para Aprimoramento do Pensamento Matemático Criativo: Um estudo sobre funções, algoritmos e modelagem.
+Doutorado - Educação Matemática, Informática na Educação - Université Claude Bernard - Lyon I (2018), France - Situações Didáticas Para Aprimoramento do Pensamento Matemático Criativo: Um estudo sobre funções e algoritmos.
 
 ## Interesses de Pesquisa
 
