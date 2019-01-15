@@ -14,6 +14,8 @@ Sou Doutor em Educação Matemática e Informática Educativa pela Universidade 
 
 Previamente trabalhei como Engenheiro de Pesquisas pela Université Claude Bernard - Lyon I, desenvolvendo metodologias e protocolos para os projetos MetaMath, MathGeAr e MC Squared. Também trabalhei como Desenvolvedor de Jogos Educativos pela École Normale Superieure de Lyon - Projeto Jen.Lab. 
 
+Atualmente sou Professor de Matemática, Cientista de Dados, Desenvolvedor de Jogos Digitais e criador de conteúdos sobre Ciências de Dados, Inteligência Artificial, Machine Learning e Marketing Digital. Atuo como professor particular e consultor de trabalhos acadêmicos, auxiliando no desenvolvimento dos protocolos e delineamentos de pesquisas, análise de dados, inferência estatística e metodologia. 
+
 ## Formação
 
 Licenciatura - Matemática - Faculdade Guairacá (2010) - A Matemática no Jogo de Poker.
