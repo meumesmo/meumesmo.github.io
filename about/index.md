@@ -10,7 +10,7 @@ comments: false
 
 ## Biografia
 
-Sou Doutor em Educação Matemática e Informática Educativa pela Universidade Claude Bernard - Lyon I, bolsista pela CAPES. O Tema de meu doutorado é o Pensamento Matemático Criativo e seu desenvolvimento por meio de tecnologias e situações didáticas,  baseadas em resolução de problemas. Meus interesses incluem: Matemática, Ciências da Computação, Jogos Digitais, Música Computacional, Educação, Inteligência Artificial e Criatividade.
+Sou Doutor em Educação Matemática e Informática Educativa pela Universidade Claude Bernard - Lyon I, bolsista pela CAPES. O Tema de meu doutorado é o Pensamento Matemático Criativo e seu desenvolvimento por meio de tecnologias e situações didáticas,  baseadas em resolução de problemas e Jogos Digitais. Meus interesses incluem: Matemática, Ciências da Computação, Ciências de Dados, Jogos Digitais, Música Computacional, Educação, Inteligência Artificial e Criatividade.
 
 Previamente trabalhei como Engenheiro de Pesquisas pela Université Claude Bernard - Lyon I, desenvolvendo metodologias e protocolos para os projetos MetaMath, MathGeAr e MC Squared. Também trabalhei como Desenvolvedor de Jogos Educativos pela École Normale Superieure de Lyon - Projeto Jen.Lab. 
 
