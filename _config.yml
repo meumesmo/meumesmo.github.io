@@ -1,6 +1,6 @@
 # Site
 title:              Pedro Lealdino Filho, Ph.D.
-bio:                'Researcher in Mathematics Education'
+bio:                'Professor e Pesquisador em Educação Matemática'
 description:        "Personal Page"
 reading_time:       true
 words_per_minute:   200
@@ -37,7 +37,7 @@ disqus_shortname:   meumesmo
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              pedro.lealdino@education.meumesmo.com.br
 twitter:            pedrolealdino
 facebook:           meumesmomatematica
 github-url:         meumesmo
