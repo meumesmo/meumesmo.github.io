@@ -10,11 +10,11 @@ comments: false
 
 ## Biografia
 
-Sou Doutor em Educação Matemática e Informática Educativa pela Universidade Claude Bernard - Lyon I, bolsista pela CAPES. O Tema de meu doutorado é o Pensamento Matemático Criativo e seu desenvolvimento por meio de tecnologias e situações didáticas,  baseadas em resolução de problemas e Jogos Digitais. Meus interesses incluem: Matemática, Ciências da Computação, Ciências de Dados, Jogos Digitais, Música Computacional, Educação, Inteligência Artificial e Criatividade.
+Doutor em Educação Matemática e Informática Educativa pela Universidade Claude Bernard - Lyon I, bolsista pela CAPES (2014-2018). O Tema de meu doutorado é o Pensamento Matemático Criativo e seu desenvolvimento por meio de tecnologias e situações didáticas,  baseadas em resolução de problemas e Jogos Digitais. Meus interesses incluem: Matemática, Ciências da Computação, Ciências de Dados, Jogos Digitais, Música Computacional, Educação, Inteligência Artificial e Criatividade.
 
 Previamente trabalhei como Engenheiro de Pesquisas pela Université Claude Bernard - Lyon I, desenvolvendo metodologias e protocolos para os projetos MetaMath, MathGeAr e MC Squared. Também trabalhei como Desenvolvedor de Jogos Educativos pela École Normale Superieure de Lyon - Projeto Jen.Lab. 
 
-Atualmente sou Professor de Matemática, Cientista de Dados, Desenvolvedor de Jogos Digitais e criador de conteúdos sobre Ciências de Dados, Inteligência Artificial, Machine Learning e Marketing Digital. Atuo como professor particular e consultor de trabalhos acadêmicos, auxiliando no desenvolvimento dos protocolos e delineamentos de pesquisas, análise de dados, inferência estatística e metodologia. 
+Atualmente sou Professor de Matemática, Cientista de Dados, Desenvolvedor de Jogos Digitais e criador de conteúdos sobre Ciências de Dados, Inteligência Artificial, Machine Learning e Marketing Digital. Atuo como professor particular e consultor de trabalhos acadêmicos, auxiliando no desenvolvimento dos protocolos e delineamentos de pesquisas, análise de dados, inferência estatística e metodologia.
 
 ## Formação
 
@@ -32,13 +32,21 @@ Doutorado - Educação Matemática, Informática na Educação - Université Cla
 
 Criatividade em Matemática, Matemática, Educação Matemática, Jogos Educacionais, Desenvolvimento de Jogos, Cursos à Distância, Estatística, Ciência de Dados, Inteligência Artificial, Algoritmos, Machine Learning, Ciências da Computação, Política, Redes Sociais.
 
+## Workshops
+
+* Marketing Digital para Auto-Empreeendedores 
+* Arte-Ciência: diálogos e interfaces - as relações entre os saberes interdisciplinares e a complexidade 
+
 ## Palestras
 
-(em contrução)
+* Pensamento Matemático Criativo - Universidad Antonio Nariño - Bogotá, Colômbia
+* Pensamento Matemático Criativo na resolução de problemas computacionais - Université de Nantes - Nantes, França.
 
 ## Afiliações
 
-Université Claude Bernard - Lyon 1, <a href="http://math.univ-lyon1.fr/irem/"><b>IREM</b></a>
+Université Claude Bernard - Lyon 1, <a href="http://math.univ-lyon1.fr/irem/"><b>IREM</b></a> Instituto de Pesquisas em Educação Matemática - IREM, Lyon.
+
+Escola Optimus: Ensino de Ciências e Tecnologia. 
 
 Bolsista - Doutorado Pleno  - <a href = "http://www.capes.gov.br"><b>CAPES</b></a> 
 
